@@ -4,6 +4,6 @@ public class Hello {
 
         System.out.println("2nd.... class");
 
-        System.out.println("2nd..updated.. class");
+        System.out.println("2nd..updated.... class");
     }
 }
